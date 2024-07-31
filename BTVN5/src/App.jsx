@@ -8,15 +8,16 @@ import TransationDetail from "./pages/users/TransationDetail"
 
 import "../src/assets/css/main.css"
 
+
 const App = () => {
   return (
     <>
-      {/* <Home/> */}
+      <Home/>
       {/* <Wallet/> */}
       {/* <Profile/> */}
       {/* <Setting/> */}
       {/* <HelpCenter/> */}
-      <TransationDetail/>
+      {/* <TransationDetail/> */}
     </>
   )
 }
